@@ -1,5 +1,5 @@
-import icon from '../../assets/img/notification-icon.svg' //Apelido icon from => (Voltando pasta anterion ../)
-import './style.css' //Link com css na mesma pasta => ./
+import icon from '../../assets/img/notification-icon.svg'; //Apelido icon from => (Voltando pasta anterion ../)
+import './style.css'; //Link com css na mesma pasta => ./
 
 
 function NotificationButton() {
@@ -10,4 +10,4 @@ function NotificationButton() {
   )
 }
 
-export default NotificationButton
+export default NotificationButton;
