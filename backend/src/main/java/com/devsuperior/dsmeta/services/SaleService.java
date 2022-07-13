@@ -20,7 +20,9 @@ public class SaleService {
 
 	@Autowired
 	private SaleRepository repository;
-
+//	
+//	twt _ohs978STzeHkUfuXXeiMpdB8VUrpUmEcQY-L1N3
+	
 	/*
 	 * @anotação => assistir video de Nelio sobre JPA no youtube Acrescentar
 	 * pageable => digamos que pageia os resultados em paginas de 20 em 20
